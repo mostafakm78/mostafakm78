@@ -1,3 +1,5 @@
+<h1>Hi , I'm Mostafa Kamari , FrontEnd Developer</h1>
+
 # 💫 About Me:
 🔭 I’m currently working on building modern and interactive user interfaces using React, Next.js, and Tailwind CSS. My focus is on creating smooth user experiences and visually appealing, responsive designs.<br><br>👯 I’m looking to collaborate on projects that need creative UI design, beautiful animations, and implementation using up-to-date frontend technologies.<br><br>🤝 I’m looking for help with building a stronger portfolio and learning advanced performance optimization techniques for large-scale frontend applications.<br><br>🌱 I’m currently learning advanced topics in React and Next.js, as well as how to structure and scale professional-grade frontend projects.<br><br>💬 Ask me about React, Next.js, component design, animation, project architecture, and clean, minimal UI/UX approaches — I'm always happy to share what I know!<br><br>⚡ Fun fact: I’m obsessed with visual details — I can spend hours fine-tuning a simple animation just to make it feel exactly right. Because I believe great user experiences are made in the details ✨
 
