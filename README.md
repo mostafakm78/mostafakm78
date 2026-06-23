@@ -6,9 +6,9 @@ I build production web apps — the kind with real users, real performance
 constraints, and real deadlines.
 
 **What I've shipped:**
-- 🏐 [SS-Sport](https://ss-sport.ir) — Sports academy platform · ~12,000 monthly visits
+- 🏐 SS-Sport — Sports academy platform · ~12,000 monthly visits
 - 🔊 [SoftSound](https://softsound.vercel.app) — Ambient audio web app · Framer Motion · shadcn/ui
-- 💊 [Capsule](https://capsule-demo.vercel.app) — Digital memory platform · Redux Toolkit · Axios
+- 💊 [Capsule](https://capsule-memo.ir) — Digital memory platform · Redux Toolkit · Axios
 - 📊 [ZoodFix](https://zoodfix.vercel.app) — E-commerce UI · Next.js · TypeScript
 
 **How I work:**
